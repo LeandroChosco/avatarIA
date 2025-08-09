@@ -4,7 +4,7 @@ const input = $("#input");
 const sendBtn = $("#send");
 const avatarInput = $("#avatarId");
 const saveIdBtn = $("#saveId");
-
+const url_base = "https://avatar-ia-sand.vercel.app"
 function appendMsg(text, who) {
   const div = document.createElement("div");
   div.className = `msg ${who}`;
@@ -25,13 +25,13 @@ async function ensureSeed() {
   const avatarId = getAvatarId();
   if (!avatarId) return; // no iniciar hasta seleccionar
   try {
-    await fetch("/api/seed", {
+    await fetch(url_base + "/api/seed", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ avatarId }),
     });
     // pedir una apertura
-    const res = await fetch("/api/opening", {
+    const res = await fetch(url_base + "/api/opening", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ avatarId }),
@@ -55,7 +55,7 @@ async function send() {
   const avatarId = getAvatarId();
   appendMsg(text, "user");
   try {
-    const res = await fetch("/api/chat", {
+    const res = await fetch(url_base + "/api/chat", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ avatarId, userMessage: text }),
