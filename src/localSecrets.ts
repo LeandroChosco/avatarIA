@@ -1,0 +1,3 @@
+export const OPENAI_API_KEY_FALLBACK = "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";
+
+

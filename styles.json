@@ -1,0 +1,28 @@
+[
+  {
+    "avatarId": "julio",
+    "totalMessages": 10,
+    "emojiHits": 0,
+    "laughHits": 1,
+    "abbrevHits": {},
+    "questionMarks": 9,
+    "exclamMarks": 2,
+    "openingMarks": 0,
+    "endingDots": 0,
+    "lowercaseDominant": 10,
+    "lastUpdated": "2025-08-09T03:20:49.920Z"
+  },
+  {
+    "avatarId": "lucia",
+    "totalMessages": 2,
+    "emojiHits": 0,
+    "laughHits": 0,
+    "abbrevHits": {},
+    "questionMarks": 3,
+    "exclamMarks": 1,
+    "openingMarks": 0,
+    "endingDots": 0,
+    "lowercaseDominant": 2,
+    "lastUpdated": "2025-08-09T03:25:52.742Z"
+  }
+]

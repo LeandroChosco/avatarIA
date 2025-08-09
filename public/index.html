@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Avatar con vida - MVP</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <div class="app">
+      <header>
+        <h1>Avatar con vida</h1>
+        <div class="avatar-id">
+          <label for="avatarId">Avatar</label>
+          <select id="avatarId">
+            <option value="" selected>Selecciona un avatar…</option>
+            <option value="demo">Lia (demo)</option>
+            <option value="julio">Julio</option>
+            <option value="lucia">Lucia</option>
+          </select>
+          <button id="saveId">Seleccionar</button>
+        </div>
+      </header>
+      <main>
+        <div id="messages" class="messages"></div>
+      </main>
+      <footer>
+        <input id="input" placeholder="Escribe un mensaje..." />
+        <button id="send">Enviar</button>
+      </footer>
+    </div>
+    <script src="/app.js"></script>
+  </body>
+  </html>
+
+

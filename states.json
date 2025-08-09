@@ -1,0 +1,26 @@
+[
+  {
+    "avatarId": "demo",
+    "mood": "feliz",
+    "energia": 0.71,
+    "afectoUsuario": 1,
+    "contextoActual": "charlando sobre: pero con enrique, que paso?",
+    "actualizadoEn": "2025-08-09T02:44:16.044Z"
+  },
+  {
+    "avatarId": "julio",
+    "mood": "neutral",
+    "energia": 0.8,
+    "afectoUsuario": 0.7000000000000002,
+    "contextoActual": "charlando sobre: Hola Lucia",
+    "actualizadoEn": "2025-08-09T03:20:50.940Z"
+  },
+  {
+    "avatarId": "lucia",
+    "mood": "neutral",
+    "energia": 0.8,
+    "afectoUsuario": 0.54,
+    "contextoActual": "charlando sobre: Como estas Lucia? que haces?",
+    "actualizadoEn": "2025-08-09T03:25:53.800Z"
+  }
+]

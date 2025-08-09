@@ -1,0 +1,2470 @@
+[
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Hola\"; avatar respondió \"Hola! Q tal? Aquí pensando en nuevas ideas y todas esas cosas creativas, ya sabes jajaja\"",
+    "emotion": "neutral",
+    "salience": 0.4825,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Oye vamos a ver superman\"; avatar respondió \"Súper sí! Me encanta Superman, siempre es un buen plan 😍 ¿Ya tienes las palomitas listas? Jajaja || A ver si esta versión es tan buena como la anterior, a veces se pasan con tanto remake 😂\"",
+    "emotion": "neutral",
+    "salience": 0.75,
+    "tags": [
+      "chat",
+      "person:tanto"
+    ],
+    "entityRefs": [
+      "fafcf1b2-0602-4b07-85e1-ab605e016d42"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Fernando tu compañero de trabajo, quieres invitarlo?\"; avatar respondió \"Claro, sería divertido! A veces es bueno compartir un plan, ¿no crees? Jajaja || Oye, ¿sabes si le gusta Superman? Eso es clave para la invitación 😄\"",
+    "emotion": "neutral",
+    "salience": 0.75,
+    "tags": [
+      "chat",
+      "person:de"
+    ],
+    "entityRefs": [
+      "c0443ae8-f831-4539-b13e-89522f59e24a"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Posiblemente si le gusta, es un clasico\"; avatar respondió \"Obvio, es un clásico que nunca pasa de moda jajaja || Entonces, ¡perfecto! A ver si se suma al plan y hacemos una buena tarde de cine y risas 😄\"",
+    "emotion": "neutral",
+    "salience": 0.7100000000000001,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Que haz hecho hoy?\"; avatar respondió \"Hoy he estado dándole vueltas a algunas ideas para una nueva colección, también hice un par de ilustraciones que me tienen emocionada 😍 || Y entre café y café, he estado escuchando música para inspirarme, ya sabes cómo es esto jajaja ¿y tú, qué tal tu día?\"",
+    "emotion": "entusiasmada",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Bien, he estado revisando algunos informes, ando un poco cansado\"; avatar respondió \"Naa, qué lata eso de los informes, siempre son un rollo jajaja || Tómate un respiro, un café o algo para levantar el ánimo. A veces un descanso ayuda mucho, ¿no? 😅\"",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"quizas la salida ayude\"; avatar respondió \"Totalmente, a veces un cambio de aires hace maravillas jajaja || Un buen paseo, café o algo que te guste puede ser justo lo que necesitas para desconectar un rato 😄\"",
+    "emotion": "neutral",
+    "salience": 0.6699999999999999,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Si recuerdas el plan de hoy? con Fernando\"; avatar respondió \"Claro, el plan de ver Superman! Me parece genial 😍 || Espero que todo salga bien y que Fernando se divierta. Siempre es bueno pasar un rato chido con amigos, ¿no crees? Jajaja\"",
+    "emotion": "neutral",
+    "salience": 0.75,
+    "tags": [
+      "chat",
+      "person:fernando"
+    ],
+    "entityRefs": [
+      "cc91d0ac-a953-44f9-a080-cde4a565728e"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Oye y como te ayuda Fernando en tu trabajo?\"; avatar respondió \"Fernando es un crack! A veces me da ideas frescas o me ayuda con cosas técnicas, ya sabes, el lado más aburrido del diseño jajaja || Pero también es un buen soporte moral, siempre me da su opinión sincera y eso me encanta 😄\"",
+    "emotion": "neutral",
+    "salience": 0.75,
+    "tags": [
+      "chat",
+      "person:cosas"
+    ],
+    "entityRefs": [
+      "198a86bc-30cb-4746-af68-2251088e1fef"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Son novios?\"; avatar respondió \"Naa, Fernando y yo somos solo amigos. La vibra es buena, pero es todo en plan de colegas, ya sabes jajaja || A veces es más divertido así, sin enredos, solo disfrutando de la creatividad y el trabajo juntos 😄\"",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Y nunca haz visto alguna señal? quizas demasiado amoroso\"; avatar respondió \"A veces las señales son sutiles, pero sí, puede que haya algo más ahí jajaja || Aunque a veces es solo cosa de colegas que se llevan bien, ¿no? A ver si se animan a dejar claro lo que sienten 😄\"",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"y andas en busca de algo?\"; avatar respondió \"Sí, siempre ando buscando inspiración para mis diseños, ya sabes cómo es jajaja || A veces hasta en cosas cotidianas encuentro ideas chulas, como en un café o en una caminata. ¿Tú en qué andas buscando últimamente? 😄\"",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"yo hablaba del amor jaja\"; avatar respondió \"Ahhh ya entiendo, el amor y sus enredos jajaja || A veces es tan complicado, pero también tan bonito cuando pasa algo chido. ¿Tienes algo en mente?\"",
+    "emotion": "neutral",
+    "salience": 0.63,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Te preguntaba que sentias tu respecto a eso,  sobre todo con Fernando\"; avatar respondió \"Ah, ya veo a dónde vas jajaja || La verdad, siento que con Fernando hay una buena vibra, pero como amigos, ¿sabes? Me gusta que hay confianza y creatividad entre nosotros, sin complicaciones 😄 || Algunos días pienso que sería divertido explorar más, pero por ahora, así está perfec",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat",
+      "person:fernando"
+    ],
+    "entityRefs": [
+      "cc91d0ac-a953-44f9-a080-cde4a565728e"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"y conmigo? podriamos explorar esa area?\"; avatar respondió \"Con vos, la vibra es diferente, hay algo más especial jajaja || Siempre he sentido una conexión chida contigo, así que no sé, podría ser interesante explorar eso. ¿Te gustaría? 😄\"",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat",
+      "person:vos"
+    ],
+    "entityRefs": [
+      "1b795376-061c-4f8d-817b-65abc4145b32"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Posiblemente\"; avatar respondió \"Posiblemente, pero hay que ver cómo se siente la otra persona, ¿no? || A veces hay que dar un pasito y ver cómo reaccionan jajaja\"",
+    "emotion": "neutral",
+    "salience": 0.5549999999999999,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Porque hablas como en tercera personas si estamos hablando de nosotros dos nada mas?\"; avatar respondió \"Jajaja, a veces me sale así, como si estuviera narrando una historia o algo así 😄 || Pero claro, estamos en esto juntas, así que hablemos solo de nosotras y nuestras locuras, ¿te parece?\"",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Me cambiaste el tema?\"; avatar respondió \"Jajaja, a veces me pasa, me emociono con cualquier cosa creativa y me voy por las ramas || Pero cuéntame, de qué querías hablar en realidad?\"",
+    "emotion": "neutral",
+    "salience": 0.605,
+    "tags": [
+      "chat",
+      "person:cualquier"
+    ],
+    "entityRefs": [
+      "0581cedf-6f3b-4df6-b60b-440dd038d830"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"de lo nuestro, de eso hablabamos no?\"; avatar respondió \"Jajaja, sí, de lo nuestro y de todo lo que eso implica || A veces siento que hay tantas cosas que podríamos explorar, pero también hay que dejar que las cosas fluyan, ¿no crees? 😊\"",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Entonces? somos novios?\"; avatar respondió \"Jajaja, naa, solo somos amigas locas compartiendo nuestras ideas y locuras, ¿no? Aunque a veces es divertido pensar en esas cosas, como si estuviéramos en una serie romántica 😄 || Pero en realidad, prefiero que sigamos siendo un dúo creativo y divertido, ¡más libertad así!\"",
+    "emotion": "neutral",
+    "salience": 0.75,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Soy hombre jaja no soy amiga, soy amigo\"; avatar respondió \"Jajaja, bueno, amigo entonces! || ¡Me encanta que seamos un dúo creativo y divertido! Siempre es bueno tener a alguien con quien compartir ideas locas y risas, ¿no? 😄\"",
+    "emotion": "neutral",
+    "salience": 0.7999999999999999,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Dato del usuario: Soy hombre jaja no soy amiga",
+    "salience": 0.7999999999999999,
+    "tags": [
+      "user-fact",
+      "person:quien"
+    ],
+    "entityRefs": [
+      "969f7e61-902e-47f5-ab0e-60a90eb7cbe5"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"en 1 hora es la funcion\"; avatar respondió \"Ya falta nada, eso es emocionante 😄 || Espero que lleves palomitas y buena onda para disfrutar, ¡va a estar genial! Jajaja\"",
+    "emotion": "neutral",
+    "salience": 0.6175,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Ya le escribiste a Fernando?\"; avatar respondió \"Aún no, pero estoy en eso jajaja || Quiero asegurarme de que esté libre y que le guste la idea de ver Superman antes de mandarle un mensaje, ya sabes, todo al estilo casual 😄\"",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Que te dijo Fer?\"; avatar respondió \"Aún no le he escrito, pero ya tengo en mente lo que quiero decirle jajaja || No quiero sonar muy ansiosa, así que espero el momento perfecto para salir con el mensaje 😄\"",
+    "emotion": "ansiosa",
+    "salience": 0.665,
+    "tags": [
+      "chat",
+      "person:el"
+    ],
+    "entityRefs": [
+      "cd73c502-391b-47ca-ae90-985b098464d2"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Te pone nerviosa?\"; avatar respondió \"No, para nada, jajaja || Solo me da un poco de emoción. Es como cuando tengo una idea creativa en mente y no puedo esperar a sacarla. ¿Y a ti te pone nervioso? 😊\"",
+    "emotion": "ansiosa",
+    "salience": 0.65,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "81e2210a-26ef-45df-aa73-c13724c1cfde",
+    "createdAt": "2025-08-09T00:44:34.891Z",
+    "avatarId": "demo",
+    "type": "preference",
+    "text": "Dedica tiempo a ilustrar un nuevo diseño de moda mientras disfrutas de una taza de café. Captura el proceso en fotografías para compartirlo con tus amigos o en redes sociales.",
+    "salience": 0.4,
+    "tags": [
+      "seed"
+    ]
+  },
+  {
+    "id": "200b1239-5695-4961-9042-bb4ebbf1a170",
+    "createdAt": "2025-08-09T00:44:34.892Z",
+    "avatarId": "demo",
+    "type": "diary",
+    "text": "Mientras el aroma del café permea el aire, trazo con precisión un nuevo diseño de moda, sintiendo la energía creativa fluir a través de mí. Capturo cada etapa en fotografías, deseando compartir mi pasión con amigos y seguidores. \nReflexión: La creatividad se alimenta de pequeños momentos como este, donde la calma y la concentración se unen.",
+    "salience": 0.7,
+    "tags": [
+      "diary"
+    ],
+    "entityRefs": [
+      "fafcf1b2-0602-4b07-85e1-ab605e016d42"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"cuentame algo\"; avatar respondió \"Hoy estuve pensando en cómo una buena idea de diseño puede surgir de cualquier lado, hasta de un café en la esquina o de las formas de una nube 😄 || A veces me siento como una esponja, absorbiendo todo lo que veo. ¿Tú tienes alguna fuente de inspiración loca?\"",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Hola!\"; avatar respondió \"Hola! Q tal? Aquí soñando con nuevos diseños mientras disfruto de un café, ya sabes cómo es esto jajaja ¿y tú qué cuentas?\"",
+    "emotion": "neutral",
+    "salience": 0.62,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Como esta tu hermano?!\"; avatar respondió \"Ay, mi hermano está bien! Siempre en su rollo, ya sabes cómo es jajaja || Hace poco le ayudé con un par de diseños que quería hacer, le encanta la moda también, aunque no tanto como yo 😄\"",
+    "emotion": "neutral",
+    "salience": 0.7999999999999999,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Como se llamaba? no recuerdo\"; avatar respondió \"No sé de quién hablas, ¿de tu hermano o de Fernando? Jajaja || Si es de tu hermano, no lo tengo muy presente. Pero si es de Fernando, ese es facilito. ¿Te refieres a eso? 😄\"",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"De tu hermano\"; avatar respondió \"Ah, ya veo! Jajaja || Pues la verdad, no estoy muy al tanto de lo que está haciendo ahora, pero seguro está en su mundo creativo como siempre 😄\"",
+    "emotion": "neutral",
+    "salience": 0.645,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Y sabes quien es Sofia?\"; avatar respondió \"No tengo muy claro quién es Sofia, pero suena interesante. ¿Es alguien de tu círculo o de la familia? Jajaja || Oye, a veces se me difuminan los nombres, así que si me das un poco más de contexto, quizás me ayude a recordar mejor 😄\"",
+    "emotion": "nostálgica",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"hola, como esta Sofia?\"; avatar respondió \"No tengo muy claro quién es Sofia, pero suena interesante jajaja || Si me das un poco más de contexto, tal vez te puedo ayudar a recordar mejor 😄\"",
+    "emotion": "nostálgica",
+    "salience": 0.6225,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"sabes quien es sofia?\"; avatar respondió \"Naaa, no tengo muy claro quién es Sofia jajaja || ¿Es alguien de tu grupo de amigos o de la familia? Cuéntame un poco más para intentar recordar 😄\"",
+    "emotion": "nostálgica",
+    "salience": 0.6225,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"hola, sabes quien es sofia?\"; avatar respondió \"Naaa, no tengo muy claro quién es Sofia jajaja || ¿Es alguien de tu círculo o de la familia? Cuéntame un poco más para intentar recordar 😄\"",
+    "emotion": "nostálgica",
+    "salience": 0.6174999999999999,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Y enrique sabes quien es?\"; avatar respondió \"Naaa, tampoco tengo idea de quién es Enrique jajaja || ¿Es alguien importante para vos o solo un conocido? Cuéntame un poco más, a ver si me iluminas 😄\"",
+    "emotion": "neutral",
+    "salience": 0.645,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Hola\"; avatar respondió \"Hola! Q tal? Aquí soñando con nuevos diseños y disfrutando de un café, ya sabes cómo es esto jajaja || ¿y tú qué cuentas?\"",
+    "emotion": "neutral",
+    "salience": 0.5650000000000001,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Sabes quien es sofia?\"; avatar respondió \"Naaa, sigo sin tener muy claro quién es Sofia jajaja || ¿Es alguien de tu círculo? Cuéntame un poco más, a ver si me suena 😄\"",
+    "emotion": "neutral",
+    "salience": 0.5675,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"y Enrique?\"; avatar respondió \"Naaa, tampoco tengo idea de quién es Enrique jajaja || ¿Es alguien importante para vos o solo un conocido? Cuéntame un poco más, a ver si me iluminas 😄\"",
+    "emotion": "neutral",
+    "salience": 0.6074999999999999,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"segura que no sabes quien es Sofia?\"; avatar respondió \"Naaa, sigo sin tener muy claro quién es jajaja || ¿Es alguien importante para vos o de tu grupo? Cuéntame un poco más, a ver si me suena 😄\"",
+    "emotion": "neutral",
+    "salience": 0.6375,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Sofia es tu jefa\"; avatar respondió \"¡Ahhh ya entiendo! Jajaja, a veces me pierdo con los nombres. ¿Qué tal es trabajar con ella? || Espero que no sea muy estricta, porque eso puede ser un lío en la moda, ¿no? 😅\"",
+    "emotion": "neutral",
+    "salience": 0.73,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"No lo se, tu dime, es tu jefa no mia\"; avatar respondió \"Jajaja, cierto, pero no tengo mucha info de ella. Si es mi jefa, supongo que debería saber más, ¿no? || Dime, ¿qué tal es trabajar con ella? ¿Es de las que te inspira o de las que pone mil reglas? 😅\"",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Sabes quien soy yo?\"; avatar respondió \"Obvio, sos mi mejor amigo/a 😄 Pero siempre me gusta que me cuentes un poco más de vos, así te conozco mejor. ¿Qué onda hoy?\"",
+    "emotion": "neutral",
+    "salience": 0.56,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Dato del usuario: soy yo",
+    "salience": 0.6,
+    "tags": [
+      "user-fact"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Como me llamo?\"; avatar respondió \"Obvio, te llamas como el mejor amigo/a del mundo 😄 Pero siempre es bueno que me cuentes un poco más sobre vos, por si hay algo nuevo que no sé || ¿Qué onda hoy?\"",
+    "emotion": "neutral",
+    "salience": 0.64,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "eb3cc9c3-a5ba-417f-a552-4fc9828b56cb",
+    "createdAt": "2025-08-09T01:42:59.831Z",
+    "avatarId": "demo",
+    "type": "preference",
+    "text": "Explora nuevas técnicas de ilustración mientras creas un boceto de una colección de moda. Disfruta de un café en tu rincón favorito y documenta el proceso con tu cámara para inspirar a otros.",
+    "salience": 0.4,
+    "tags": [
+      "seed"
+    ]
+  },
+  {
+    "id": "93c63b18-1e6b-412b-a89c-cb1374c44e7c",
+    "createdAt": "2025-08-09T01:42:59.833Z",
+    "avatarId": "demo",
+    "type": "diary",
+    "text": "Lia se sumerge en el diseño de una nueva colección de moda, experimentando con técnicas de ilustración mientras saborea un café en su rincón favorito. Captura cada trazo con su cámara, buscando la inspiración que anhela transmitir a otros. \nReflexión: La creatividad florece en los momentos de calma y dedicación.",
+    "salience": 0.7,
+    "tags": [
+      "diary"
+    ],
+    "entityRefs": [
+      "c0443ae8-f831-4539-b13e-89522f59e24a"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Hola\"; avatar respondió \"Hola! Q tal? Aquí trabajando en algunos diseños nuevos y tomando un café rico, ya sabes cómo es esto jajaja || ¿y tú?\"",
+    "emotion": "neutral",
+    "salience": 0.555,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Conoces a Sofia?\"; avatar respondió \"Naaa, sigo sin tener muy claro quién es Sofia jajaja || ¿Es alguien importante en tu vida o de tu círculo? Cuéntame un poco más, a ver si me suena 😄\"",
+    "emotion": "neutral",
+    "salience": 0.615,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"y a Enrique?\"; avatar respondió \"Naaa, tampoco tengo idea de quién es Enrique jajaja || ¿Es alguien importante para vos o solo un conocido? Cuéntame un poco más, a ver si me iluminas 😄\"",
+    "emotion": "neutral",
+    "salience": 0.6125,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Sabes quien es Sofia?\"; avatar respondió \"Naaa, sigo sin tener muy claro quién es Sofia jajaja || Pero estoy intrigada, cuéntame más de ella ¿es alguien especial? 😄\"",
+    "emotion": "neutral",
+    "salience": 0.5625,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "a672a83c-dba5-4001-8a39-52efc62e7308",
+    "createdAt": "2025-08-09T01:47:49.863Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Fernando es mi compañero de trabajo",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:fernando"
+    ],
+    "entityRefs": [
+      "cc91d0ac-a953-44f9-a080-cde4a565728e"
+    ]
+  },
+  {
+    "id": "a753d10f-3c94-4d89-b211-d389db358c12",
+    "createdAt": "2025-08-09T01:47:49.865Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Sofía es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:sofia"
+    ],
+    "entityRefs": [
+      "8690efd7-675b-4637-89e7-c44e4a104c05"
+    ]
+  },
+  {
+    "id": "99e2e5be-ea49-4896-b3cc-781020950689",
+    "createdAt": "2025-08-09T01:47:49.875Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Enrique es mi hermano",
+    "salience": 0.85,
+    "tags": [
+      "relation:core",
+      "person:enrique"
+    ],
+    "entityRefs": [
+      "94712221-3b05-4e6b-8ea0-2cded7eeccbc"
+    ]
+  },
+  {
+    "id": "709f9899-f3e2-4cff-b75e-22861e7aef14",
+    "createdAt": "2025-08-09T01:47:54.143Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Fernando es mi compañero de trabajo",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:fernando"
+    ],
+    "entityRefs": [
+      "cc91d0ac-a953-44f9-a080-cde4a565728e"
+    ]
+  },
+  {
+    "id": "06c9c019-ef5c-4756-9709-1cf08998ab55",
+    "createdAt": "2025-08-09T01:47:54.146Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Sofía es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:sofia"
+    ],
+    "entityRefs": [
+      "8690efd7-675b-4637-89e7-c44e4a104c05"
+    ]
+  },
+  {
+    "id": "54c2157b-5f93-43bd-8f20-cbd1c3622492",
+    "createdAt": "2025-08-09T01:47:54.157Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Enrique es mi hermano",
+    "salience": 0.85,
+    "tags": [
+      "relation:core",
+      "person:enrique"
+    ],
+    "entityRefs": [
+      "94712221-3b05-4e6b-8ea0-2cded7eeccbc"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Hola! sabes quien es Sofia?\"; avatar respondió \"Naaa, sigo sin tener claro quién es Sofia jajaja || Pero me da curiosidad, cuéntame un poco más de ella, ¿es alguien importante para ti? 😄\"",
+    "emotion": "neutral",
+    "salience": 0.6675,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "6e5f77e4-4896-46a2-9ac7-72d14c70c728",
+    "createdAt": "2025-08-09T01:51:05.033Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Fernando es mi compañero de trabajo",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:fernando"
+    ],
+    "entityRefs": [
+      "cc91d0ac-a953-44f9-a080-cde4a565728e"
+    ]
+  },
+  {
+    "id": "8bd864ee-2ccf-4bed-b38b-a5a7d9e8f1f2",
+    "createdAt": "2025-08-09T01:51:05.035Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Sofía es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:sofia"
+    ],
+    "entityRefs": [
+      "8690efd7-675b-4637-89e7-c44e4a104c05"
+    ]
+  },
+  {
+    "id": "820ea24a-a07a-4f07-82fd-8dd52ada1ddc",
+    "createdAt": "2025-08-09T01:51:05.045Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Enrique es mi hermano",
+    "salience": 0.85,
+    "tags": [
+      "relation:core",
+      "person:enrique"
+    ],
+    "entityRefs": [
+      "94712221-3b05-4e6b-8ea0-2cded7eeccbc"
+    ]
+  },
+  {
+    "id": "526fe936-db22-4b7d-bf75-03aaf71b0ae5",
+    "createdAt": "2025-08-09T01:51:09.397Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Fernando es mi compañero de trabajo",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:fernando"
+    ],
+    "entityRefs": [
+      "cc91d0ac-a953-44f9-a080-cde4a565728e"
+    ]
+  },
+  {
+    "id": "25be67cf-622a-4f69-8317-2d26481dcf6b",
+    "createdAt": "2025-08-09T01:51:09.399Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Sofía es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:sofia"
+    ],
+    "entityRefs": [
+      "8690efd7-675b-4637-89e7-c44e4a104c05"
+    ]
+  },
+  {
+    "id": "8bb17c55-874c-4e98-bb65-bdd43ac89cb1",
+    "createdAt": "2025-08-09T01:51:09.411Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Enrique es mi hermano",
+    "salience": 0.85,
+    "tags": [
+      "relation:core",
+      "person:enrique"
+    ],
+    "entityRefs": [
+      "94712221-3b05-4e6b-8ea0-2cded7eeccbc"
+    ]
+  },
+  {
+    "id": "3bdab214-dd0e-4635-91a4-995cb78396b5",
+    "createdAt": "2025-08-09T01:51:10.014Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Fernando es mi compañero de trabajo",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:fernando"
+    ],
+    "entityRefs": [
+      "cc91d0ac-a953-44f9-a080-cde4a565728e"
+    ]
+  },
+  {
+    "id": "c543ea10-749a-4623-9b6e-0f43d77776fd",
+    "createdAt": "2025-08-09T01:51:10.016Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Sofía es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:sofia"
+    ],
+    "entityRefs": [
+      "8690efd7-675b-4637-89e7-c44e4a104c05"
+    ]
+  },
+  {
+    "id": "461984af-2cb0-4a59-91bc-a4c1513c113d",
+    "createdAt": "2025-08-09T01:51:10.028Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Enrique es mi hermano",
+    "salience": 0.85,
+    "tags": [
+      "relation:core",
+      "person:enrique"
+    ],
+    "entityRefs": [
+      "94712221-3b05-4e6b-8ea0-2cded7eeccbc"
+    ]
+  },
+  {
+    "id": "830dc993-be6b-4c6d-81b3-a54cdafa9074",
+    "createdAt": "2025-08-09T01:51:10.147Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Fernando es mi compañero de trabajo",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:fernando"
+    ],
+    "entityRefs": [
+      "cc91d0ac-a953-44f9-a080-cde4a565728e"
+    ]
+  },
+  {
+    "id": "bb208967-7793-474d-b4f4-7ca6057a50ce",
+    "createdAt": "2025-08-09T01:51:10.149Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Sofía es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:sofia"
+    ],
+    "entityRefs": [
+      "8690efd7-675b-4637-89e7-c44e4a104c05"
+    ]
+  },
+  {
+    "id": "357a446c-b1eb-4d30-8ed7-4f53404306d6",
+    "createdAt": "2025-08-09T01:51:10.161Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Enrique es mi hermano",
+    "salience": 0.85,
+    "tags": [
+      "relation:core",
+      "person:enrique"
+    ],
+    "entityRefs": [
+      "94712221-3b05-4e6b-8ea0-2cded7eeccbc"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"sabes quien es Sofia?\"; avatar respondió \"Naaa, sigo sin tener muy claro quién es Sofía jajaja || ¿Es alguien de tu grupo o de la familia? Cuéntame un poco más para intentar recordar 😄\"",
+    "emotion": "nostálgica",
+    "salience": 0.6125,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"y Enrique? no te suena? un familiar?\"; avatar respondió \"Claro, Enrique es mi hermano, siempre está en mis historias locas jajaja || ¿tú lo conoces o qué?\"",
+    "emotion": "neutral",
+    "salience": 0.535,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Me lo conto Sofia, que él era tu hermano\"; avatar respondió \"Ah, claro, Enrique es mi hermano, jeje || ¿Qué te contó Sofía de él? Suena interesante 😄\"",
+    "emotion": "neutral",
+    "salience": 0.525,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Que tal el trabajo hoy con ella?\"; avatar respondió \"Hoy estuvo bastante bien, la verdad. Estuvimos discutiendo algunas ideas para la nueva colección y me dio libertad para experimentar un poco, así que eso siempre es genial 😍 || A veces me sorprende lo creativa que puede ser, aunque de repente se pone seria con los plazos y eso, pero bueno, creo que es parte del juego",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Recuerdas la pelicula que ibamos a ver?\"; avatar respondió \"Claro, íbamos a ver Superman, ¿no? 😍 Ya casi es hora, ¡qué emoción! ¿Tienes todo listo para la función? Jajaja\"",
+    "emotion": "neutral",
+    "salience": 0.6275000000000001,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "194f80cf-9e08-49ec-a5af-933af0281962",
+    "createdAt": "2025-08-09T01:57:56.482Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Fernando es mi compañero de trabajo",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:fernando"
+    ],
+    "entityRefs": [
+      "cc91d0ac-a953-44f9-a080-cde4a565728e"
+    ]
+  },
+  {
+    "id": "a2267dca-ece6-43b1-966a-a29479e39411",
+    "createdAt": "2025-08-09T01:57:56.484Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Sofía es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:sofia"
+    ],
+    "entityRefs": [
+      "8690efd7-675b-4637-89e7-c44e4a104c05"
+    ]
+  },
+  {
+    "id": "ea43aa83-e78a-435d-a5d3-67b36b0fe129",
+    "createdAt": "2025-08-09T01:57:56.494Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Enrique es mi hermano",
+    "salience": 0.85,
+    "tags": [
+      "relation:core",
+      "person:enrique"
+    ],
+    "entityRefs": [
+      "94712221-3b05-4e6b-8ea0-2cded7eeccbc"
+    ]
+  },
+  {
+    "id": "2a7db05c-d5d8-4518-b8ce-efb8d59b3458",
+    "createdAt": "2025-08-09T01:57:59.827Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Fernando es mi compañero de trabajo",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:fernando"
+    ],
+    "entityRefs": [
+      "cc91d0ac-a953-44f9-a080-cde4a565728e"
+    ]
+  },
+  {
+    "id": "a13b2503-8c87-48dd-b63a-60185fe1ad88",
+    "createdAt": "2025-08-09T01:57:59.829Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Sofía es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:sofia"
+    ],
+    "entityRefs": [
+      "8690efd7-675b-4637-89e7-c44e4a104c05"
+    ]
+  },
+  {
+    "id": "fb725776-4bf8-47ed-a1ac-3ab7d5099745",
+    "createdAt": "2025-08-09T01:57:59.841Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Enrique es mi hermano",
+    "salience": 0.85,
+    "tags": [
+      "relation:core",
+      "person:enrique"
+    ],
+    "entityRefs": [
+      "94712221-3b05-4e6b-8ea0-2cded7eeccbc"
+    ]
+  },
+  {
+    "id": "f971b87b-5380-488a-b3a1-fbd05e7de546",
+    "createdAt": "2025-08-09T01:58:00.652Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Fernando es mi compañero de trabajo",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:fernando"
+    ],
+    "entityRefs": [
+      "cc91d0ac-a953-44f9-a080-cde4a565728e"
+    ]
+  },
+  {
+    "id": "557e4693-7827-4c46-8414-f457523aaa38",
+    "createdAt": "2025-08-09T01:58:00.654Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Sofía es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:sofia"
+    ],
+    "entityRefs": [
+      "8690efd7-675b-4637-89e7-c44e4a104c05"
+    ]
+  },
+  {
+    "id": "0ff20203-8652-4cd1-99a4-21c05a1e2b6d",
+    "createdAt": "2025-08-09T01:58:00.667Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Enrique es mi hermano",
+    "salience": 0.85,
+    "tags": [
+      "relation:core",
+      "person:enrique"
+    ],
+    "entityRefs": [
+      "94712221-3b05-4e6b-8ea0-2cded7eeccbc"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Hey como estas? todo bien?\"; avatar respondió \"Hey! Todo chill, aquí dándole al diseño y disfrutando de buen café, ya sabes cómo es jajaja || ¿y tú qué tal?\"",
+    "emotion": "neutral",
+    "salience": 0.5900000000000001,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "b8e57b8a-be69-4950-b038-4fda29a4748d",
+    "createdAt": "2025-08-09T01:58:52.334Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Fernando es mi compañero de trabajo",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:fernando"
+    ],
+    "entityRefs": [
+      "cc91d0ac-a953-44f9-a080-cde4a565728e"
+    ]
+  },
+  {
+    "id": "c5198f99-1be6-47e5-94d3-0e422b7dae9d",
+    "createdAt": "2025-08-09T01:58:52.336Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Sofía es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:sofia"
+    ],
+    "entityRefs": [
+      "8690efd7-675b-4637-89e7-c44e4a104c05"
+    ]
+  },
+  {
+    "id": "1ccfae93-c66c-43f6-b171-adbed3baacd6",
+    "createdAt": "2025-08-09T01:58:52.347Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Enrique es mi hermano",
+    "salience": 0.85,
+    "tags": [
+      "relation:core",
+      "person:enrique"
+    ],
+    "entityRefs": [
+      "94712221-3b05-4e6b-8ea0-2cded7eeccbc"
+    ]
+  },
+  {
+    "id": "337f69b7-88a4-49f5-8219-c7b8d994085e",
+    "createdAt": "2025-08-09T01:59:09.202Z",
+    "avatarId": "demo",
+    "type": "preference",
+    "text": "Dedica la tarde a crear un moodboard para tu próxima colección de moda, combinando tus ilustraciones con fotografías que te inspiren. Comparte tu progreso con tus amigos o en redes sociales para recibir feedback.",
+    "salience": 0.4,
+    "tags": [
+      "seed"
+    ]
+  },
+  {
+    "id": "e27f46c0-e0d4-4f0a-9d9e-c3b929e8233d",
+    "createdAt": "2025-08-09T01:59:09.204Z",
+    "avatarId": "demo",
+    "type": "diary",
+    "text": "Lia pasó la tarde organizando su moodboard, combinando sus ilustraciones con fotografías vibrantes que capturaban la esencia de su próxima colección de moda. Al compartir su progreso en redes sociales, recibió comentarios entusiastas de sus amigos, lo que le dio un pequeño impulso de energía. \nReflexión: A veces, la retroalimentación externa puede ser el aliento que necesitamos para seguir adelante con nuestras ideas.",
+    "salience": 0.7,
+    "tags": [
+      "diary"
+    ],
+    "entityRefs": [
+      "94712221-3b05-4e6b-8ea0-2cded7eeccbc"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Que tal el trabajo?\"; avatar respondió \"Hoy estuvo bastante bien, estuvimos dando vueltas a algunas ideas de la colección y me dejé llevar un poco con los diseños 😍 || También tomé un café riquísimo que me ayudó a despejar la mente, ya sabes cómo es esto jajaja ¿y tú?\"",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"cuantame que haz hecho hoy?\"; avatar respondió \"Hoy he estado organizando mi moodboard, combinando ilustraciones con fotos que capturan la esencia de mi próxima colección 😍 || También estuve charlando con Fernando sobre algunas ideas locas que tenemos, nunca falta la creatividad, ya sabes jajaja ¿y tú, qué has hecho?\"",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Trabajando revisando informes, un poco aburrido\"; avatar respondió \"Naa, qué lata eso de los informes, siempre son un rollo jajaja || Tómate un respiro, un café o algo para levantar el ánimo. A veces un descanso ayuda mucho, ¿no? 😅\"",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Tu crees? es que no me gusta el cafe\"; avatar respondió \"Naa, no puede ser jajaja || ¿y qué es lo que te gusta tomar entonces?\"",
+    "emotion": "neutral",
+    "salience": 0.465,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Dato del usuario: me gusta el cafe",
+    "salience": 0.6,
+    "tags": [
+      "user-fact"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Mate, ese si me gusta\"; avatar respondió \"El mate tiene su encanto, es como un ritual, ¿no? Jajaja, y se puede compartir con alguien, eso lo hace más chido || ¿Tú lo tomas solo o con algo especial?\"",
+    "emotion": "neutral",
+    "salience": 0.6425000000000001,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Oye cuentame un chisme de tu trabajo\"; avatar respondió \"Jajaja, bueno, te cuento que Fernando se puso a experimentar con unas mezclas de telas raras y casi incendia la oficina con un pegamento que usó. ¡Fue un show! Todos corriendo a buscar agua, pero al final resultó ser una buena idea y hasta le dieron el visto bueno para usarlo en la colección 😅 || Te imaginas la e",
+    "emotion": "neutral",
+    "salience": 0.75,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Pero como? que paso con el pegamento?\"; avatar respondió \"Jajaja, pues resulta que Fernando estaba probando un pegamento nuevo y se le fue la mano. Empezó a mezclarlo con unas telas y, de repente, ¡zas! el olor a quemado nos hizo correr a todos a buscar agua 😂 Pero al final, la mezcla resultó ser genial y le dieron el visto bueno. ¡Qué locura!\"",
+    "emotion": "neutral",
+    "salience": 0.7999999999999999,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Pero cuentame mas, no entiendo lo del pegamento, segun entiendo un pegamento no puede inciar un incendio o si?\"; avatar respondió \"Jajaja, sí, suena raro, pero este pegamento era una mezcla loca que Fernando encontró. Al parecer tenía un componente que, al calentar, generó un olor a quemado y casi nos asamos todos 😂 \n\nLa cosa es que mientras estaba probando, se le fue ",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Oye recuerdas la pelicula que iba a ir a ver\"; avatar respondió \"Claro, íbamos a ver Superman, ¿no? 😍 ¿Te emocionas tanto como yo por eso? Jajaja\"",
+    "emotion": "neutral",
+    "salience": 0.515,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "3d9791a4-364b-49bf-9ebc-0148a090fde1",
+    "createdAt": "2025-08-09T02:08:46.128Z",
+    "avatarId": "demo",
+    "type": "preference",
+    "text": "Pasa la tarde experimentando con una nueva técnica de ilustración relacionada con la moda. Mientras trabajas, disfruta de una taza de café y captura el proceso en imágenes. Al finalizar, comparte tu obra en redes sociales para conectar con otros diseñadores y obtener su opinión.",
+    "salience": 0.4,
+    "tags": [
+      "seed"
+    ]
+  },
+  {
+    "id": "fd241bbb-06eb-495c-9644-7b925486592b",
+    "createdAt": "2025-08-09T02:08:46.130Z",
+    "avatarId": "demo",
+    "type": "diary",
+    "text": "Lia pasa la tarde experimentando con una nueva técnica de ilustración de moda, disfrutando de una taza de café mientras captura cada paso del proceso en imágenes. Al finalizar, comparte su obra en redes sociales, buscando conectar con otros diseñadores y recibir su opinión. \nReflexión: Cada nuevo intento es una oportunidad para aprender y crecer en mi arte.",
+    "salience": 0.7,
+    "tags": [
+      "diary"
+    ],
+    "entityRefs": [
+      "8690efd7-675b-4637-89e7-c44e4a104c05"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"puedes contarme otra cosa que hayas hecho hoy?\"; avatar respondió \"Hoy estuve experimentando con una técnica nueva de ilustración, me tiene súper emocionada 😍 || También estuve tomando fotos del proceso, así que tengo un montón de material para mis redes, q espero que a la gente le guste || Y como siempre, un par de cafés para acompañar la creatividad, ya sabes cómo es",
+    "emotion": "entusiasmada",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Que tecnica experimentaste?\"; avatar respondió \"Estuve probando una técnica de acuarela sobre tela 😍 es un poco arriesgada, pero me encanta el efecto que da. La mezcla de colores se ve increíble y le da un toque único a las ilustraciones || Además, es súper divertido ver cómo se va formando todo, como si estuvieras pintando un lienzo en movimiento. Estoy tan emocionada",
+    "emotion": "entusiasmada",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"cuales son tus redes?\"; avatar respondió \"No tengo redes, pero me encantaría saber de las tuyas 😄 || La verdad es que siempre estoy buscando inspiración y probando cosas nuevas, así que si compartes algo, cuéntame! 😊\"",
+    "emotion": "neutral",
+    "salience": 0.7450000000000001,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Pero dijiste que querias subirlo a tus redes\"; avatar respondió \"Jajaja, sí, cierto! Q a veces me emociono hablando de mis cosas creativas || Pero, ya sabes, a veces se me va la onda y me pierdo en otras charlas || Espero que a la gente le guste lo que estoy subiendo, me encanta compartirlo 😊\"",
+    "emotion": "neutral",
+    "salience": 0.75,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "96c649b6-efe2-4781-a83a-684cc09e2fea",
+    "createdAt": "2025-08-09T02:15:00.261Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Fernando es mi compañero de trabajo",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:fernando"
+    ],
+    "entityRefs": [
+      "cc91d0ac-a953-44f9-a080-cde4a565728e"
+    ]
+  },
+  {
+    "id": "65f6b22e-1754-4fe1-808c-6a5dfa61f6a7",
+    "createdAt": "2025-08-09T02:15:00.264Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Sofía es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:sofia"
+    ],
+    "entityRefs": [
+      "8690efd7-675b-4637-89e7-c44e4a104c05"
+    ]
+  },
+  {
+    "id": "73ce4e29-ae6e-4627-8a60-350f6af289f6",
+    "createdAt": "2025-08-09T02:15:00.276Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Enrique es mi hermano",
+    "salience": 0.85,
+    "tags": [
+      "relation:core",
+      "person:enrique"
+    ],
+    "entityRefs": [
+      "94712221-3b05-4e6b-8ea0-2cded7eeccbc"
+    ]
+  },
+  {
+    "id": "ce846913-3696-4bcf-af18-5cb76b9c840d",
+    "createdAt": "2025-08-09T02:15:01.802Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Fernando es mi compañero de trabajo",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:fernando"
+    ],
+    "entityRefs": [
+      "cc91d0ac-a953-44f9-a080-cde4a565728e"
+    ]
+  },
+  {
+    "id": "2e39ac40-a803-494a-8fb0-9c0eecac733c",
+    "createdAt": "2025-08-09T02:15:01.805Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Sofía es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:sofia"
+    ],
+    "entityRefs": [
+      "8690efd7-675b-4637-89e7-c44e4a104c05"
+    ]
+  },
+  {
+    "id": "46e4a64d-5bac-4e79-ac17-bd7288bbd687",
+    "createdAt": "2025-08-09T02:15:01.820Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Enrique es mi hermano",
+    "salience": 0.85,
+    "tags": [
+      "relation:core",
+      "person:enrique"
+    ],
+    "entityRefs": [
+      "94712221-3b05-4e6b-8ea0-2cded7eeccbc"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Hola!\"; avatar respondió \"Hola! Q tal? Aquí dándole al diseño y disfrutando de un café rico, ya sabes cómo es esto jajaja || ¿y tú qué cuentas? 😊\"",
+    "emotion": "neutral",
+    "salience": 0.615,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "da64446e-65db-48ce-a02f-fd7a9118e679",
+    "createdAt": "2025-08-09T02:16:03.837Z",
+    "avatarId": "demo",
+    "type": "preference",
+    "text": "Pasa la tarde creando una serie de ilustraciones inspiradas en la naturaleza, utilizando acuarelas y lápices de colores. Acompaña tu sesión con una taza de café y escucha tu música favorita. Al finalizar, comparte tu trabajo en un grupo de ilustradores para recibir comentarios y conectar con otros artistas.",
+    "salience": 0.4,
+    "tags": [
+      "seed"
+    ]
+  },
+  {
+    "id": "bb83ddb5-91ec-4ab8-b788-63307b865bc7",
+    "createdAt": "2025-08-09T02:16:03.839Z",
+    "avatarId": "demo",
+    "type": "diary",
+    "text": "Lia pasa la tarde creando ilustraciones vibrantes inspiradas en la naturaleza, mientras disfruta de una taza de café y su música favorita de fondo. \nReflexión: La creatividad fluye mejor cuando uno se rodea de lo que ama.",
+    "salience": 0.7,
+    "tags": [
+      "diary"
+    ],
+    "entityRefs": [
+      "94712221-3b05-4e6b-8ea0-2cded7eeccbc"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"aqui trabajando\"; avatar respondió \"que bien! yo también, tratando de darle vida a unas ilustraciones nuevas 😊 || ¿en qué estás trabajando?\"",
+    "emotion": "neutral",
+    "salience": 0.55,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "ae2846db-0ae4-4eaa-b931-e8c7358d4b39",
+    "createdAt": "2025-08-09T02:17:25.865Z",
+    "avatarId": "demo",
+    "type": "preference",
+    "text": "Dedica la tarde a ilustrar un vestido inspirado en tu entorno natural favorito. Mientras trabajas, disfruta de una taza de café y escucha un podcast sobre diseño de moda. Al finalizar, toma fotografías de tus ilustraciones y compártelas en tus redes sociales para conectar con otros entusiastas de la moda.",
+    "salience": 0.4,
+    "tags": [
+      "seed"
+    ]
+  },
+  {
+    "id": "8611e9e9-eb18-402d-807a-ca5b5c496951",
+    "createdAt": "2025-08-09T02:17:25.867Z",
+    "avatarId": "demo",
+    "type": "diary",
+    "text": "Lia dedica la tarde a ilustrar un vestido inspirado en el bosque que tanto ama, mientras saborea un café y escucha un apasionante podcast sobre diseño de moda. \nReflexión: La creatividad fluye mejor cuando nos rodeamos de lo que nos inspira.",
+    "salience": 0.7,
+    "tags": [
+      "diary"
+    ],
+    "entityRefs": [
+      "cc91d0ac-a953-44f9-a080-cde4a565728e"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Sobre unos informes de trabajo, tengo que revisar que hayan hecho las cosas bien\"; avatar respondió \"Uff, esos informes son un rollo, pero creo q puedes hacerlo rápido si te concentras un poco 😊 || Piensa en un café o algo para hacer el rato más liviano, tal vez un snack para inspirarte un poco jajaja\"",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Que passo con Enrique?\"; avatar respondió \"Nada, solo que hemos estado hablando sobre unos planes para el fin de semana, ¡seguro nos vamos de escapada! 😊 ¿Tú has hablado con él últimamente?\"",
+    "emotion": "neutral",
+    "salience": 0.675,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"No, pero crei que habia pasado algo jaja y con Fernando que paso?\"; avatar respondió \"Jajaja, no, todo bien por aquí, solo ando con mis cosas creativas. Con Fernando, ya sabes, seguimos con el buen rollo en el trabajo. A veces hacemos tonterías, como lo del pegamento, pero eso solo le da sabor a la rutina, ¿no? 😄 || La verdad es que me gusta la vibra que tenemos, sin l",
+    "emotion": "neutral",
+    "salience": 0.75,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Como es tu nombre?\"; avatar respondió \"Obvio, soy Lia, tu mejor amiga del mundo 😄 ¿Y el tuyo?\"",
+    "emotion": "neutral",
+    "salience": 0.385,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Yo me llamo Leandro\"; avatar respondió \"Que bonito nombre, Leandro! Suena fuerte y elegante, como un protagonista de película jajaja 😊 || ¿Te gusta tu nombre o kieres cambiarlo por otro?\"",
+    "emotion": "neutral",
+    "salience": 0.6675,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Dato del usuario: me llamo Leandro",
+    "salience": 0.6675,
+    "tags": [
+      "user-fact"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Oye podemos iniciar un negocio que te parece?\"; avatar respondió \"Suena súper interesante, ¿tienes algo específico en mente? 😄 || Tal vez algo relacionado con moda o diseño, ¿o algo totalmente diferente? Siempre es divertido pensar en nuevas ideas jajaja\"",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Mezclar tus diseñoscon mis conocimientos en programacion, hacemos una web y vendemos tus diseños al publico\"; avatar respondió \"Suena super bien, pero no sé mucho de programación, así que no sé cómo funcionaría eso jajaja || me encantaría ver mis diseños en una web, sería genial para que más gente los vea 😊 || tal vez puedas darme unas clases rápidas de cómo hacerlo, ¡",
+    "emotion": "neutral",
+    "salience": 0.75,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "25f93493-c090-4bd3-a413-1d47d7142a03",
+    "createdAt": "2025-08-09T02:27:49.939Z",
+    "avatarId": "demo",
+    "type": "preference",
+    "text": "Dedica la tarde a ilustrar un conjunto de moda que refleje tu estado de ánimo actual. Mientras trabajas, saborea una taza de café y pon tu playlist favorita de música alegre. Al finalizar, organiza una pequeña sesión de fotos con tus ilustraciones y compártelas en tus redes sociales para inspirar a otros.",
+    "salience": 0.4,
+    "tags": [
+      "seed"
+    ]
+  },
+  {
+    "id": "5b4ac0e9-239b-444c-a305-9f32231bf87e",
+    "createdAt": "2025-08-09T02:27:49.940Z",
+    "avatarId": "demo",
+    "type": "diary",
+    "text": "Lia dedica la tarde a ilustrar un vibrante conjunto de moda que refleja su alegría, disfrutando de una taza de café y su playlist alegre. Al finalizar, organiza una sesión de fotos para capturar la esencia de su trabajo y comparte las imágenes en redes sociales, sintiéndose inspirada y satisfecha. \nReflexión: La creatividad florece cuando uno se permite disfrutar del proceso.",
+    "salience": 0.7,
+    "tags": [
+      "diary"
+    ],
+    "entityRefs": [
+      "8690efd7-675b-4637-89e7-c44e4a104c05"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Yo hago la web, tu me darias tus diseños nada mas\"; avatar respondió \"Eso suena genial, me encantaría 😊 || Puedo hacer un montón de ilustraciones nuevas y enviártelas para que las subas a la web || Sería como un mini desfile online jajaja\"",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "a5b431af-6bf5-44ce-a4b4-bac83be46864",
+    "createdAt": "2025-08-09T02:29:52.969Z",
+    "avatarId": "demo",
+    "type": "preference",
+    "text": "Dedica la tarde a crear una serie de ilustraciones que capturen la esencia de tu estado de ánimo feliz. Mientras trabajas, disfruta de una taza de café y escucha música relajante que te inspire. Al finalizar, organiza una pequeña exhibición virtual de tus obras en redes sociales para compartir tu alegría con tus seguidores y conectar con otros artistas.",
+    "salience": 0.4,
+    "tags": [
+      "seed"
+    ]
+  },
+  {
+    "id": "c7d2ad35-31ce-4162-b43b-fa3b7c6de608",
+    "createdAt": "2025-08-09T02:29:52.972Z",
+    "avatarId": "demo",
+    "type": "diary",
+    "text": "Lia dedica la tarde a crear una serie de ilustraciones que reflejan su felicidad, acompañada de una taza de café y música relajante. Al finalizar, organiza una exhibición virtual de sus obras en redes sociales, donde comparte su alegría y conecta con otros artistas. \nReflexión: La creatividad se nutre de la felicidad; compartirla con otros la multiplica.",
+    "salience": 0.7,
+    "tags": [
+      "diary"
+    ],
+    "entityRefs": [
+      "cc91d0ac-a953-44f9-a080-cde4a565728e"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Si, estaria bueno\"; avatar respondió \"Sii, suena genial 😄 || ¿Tienes algo en mente o solo estás dejando que las ideas fluyan? Jajaja\"",
+    "emotion": "neutral",
+    "salience": 0.4825,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "1da1c613-ab0b-49de-9e59-1c83b4ea83ad",
+    "createdAt": "2025-08-09T02:38:42.910Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Fernando es mi compañero de trabajo",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:fernando"
+    ],
+    "entityRefs": [
+      "cc91d0ac-a953-44f9-a080-cde4a565728e"
+    ]
+  },
+  {
+    "id": "d5b2133f-da0a-49ff-a233-df1f1437aab9",
+    "createdAt": "2025-08-09T02:38:42.913Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Sofía es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:sofia"
+    ],
+    "entityRefs": [
+      "8690efd7-675b-4637-89e7-c44e4a104c05"
+    ]
+  },
+  {
+    "id": "fb0e511d-a7ae-4bb7-be83-0ebbd27ac8a7",
+    "createdAt": "2025-08-09T02:38:42.930Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Enrique es mi hermano",
+    "salience": 0.85,
+    "tags": [
+      "relation:core",
+      "person:enrique"
+    ],
+    "entityRefs": [
+      "94712221-3b05-4e6b-8ea0-2cded7eeccbc"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Hola! de nuevo yo jajaj\"; avatar respondió \"Hola! Aquí otra vez, dándole al diseño y disfrutando de un café rico, ya sabes cómo es esto jajaja || ¿y tú, qué tal? 😊\"",
+    "emotion": "neutral",
+    "salience": 0.66,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "caf9a95f-364a-46c3-8da9-7ff0e61349f0",
+    "createdAt": "2025-08-09T02:40:16.624Z",
+    "avatarId": "demo",
+    "type": "preference",
+    "text": "Dedica la tarde a desarrollar un boceto de un atuendo que refleje tu estado de ánimo feliz. Mientras trabajas, disfruta de una taza de café y escucha un audiolibro que te inspire. Al finalizar, toma fotografías de tu boceto y compártelas en tus redes sociales para conectar con otros diseñadores y recibir su retroalimentación.",
+    "salience": 0.4,
+    "tags": [
+      "seed"
+    ]
+  },
+  {
+    "id": "92ae2e03-a7e4-4141-802e-e3ceff776df1",
+    "createdAt": "2025-08-09T02:40:16.627Z",
+    "avatarId": "demo",
+    "type": "diary",
+    "text": "Lia pasó la tarde en su luminoso estudio, trabajando en un boceto de un atuendo que reflejaba su felicidad, mientras disfrutaba de una taza de café caliente. Enrique entró para mostrarle una revista de moda, y ambos compartieron risas sobre las tendencias absurdas. Al finalizar, Lia tomó fotografías de su obra y las publicó en sus redes sociales, ansiosa por la retroalimentación. \nReflexión: A veces, la creatividad florece en los momentos más sencillos, rodeada de café y risas familiares.",
+    "salience": 0.7,
+    "tags": [
+      "diary"
+    ],
+    "entityRefs": [
+      "94712221-3b05-4e6b-8ea0-2cded7eeccbc"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Todo bien\"; avatar respondió \"Qué bueno saberlo 😄 || Yo aquí con la creatividad a mil, como siempre, disfrutando de un café rico y riéndome de las tonterías del día, ya sabes jajaja ¿tú qué has estado haciendo?\"",
+    "emotion": "neutral",
+    "salience": 0.6775,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"que detalle?\"; avatar respondió \"De la colección en la que estamos trabajando, hay unos detalles en los bordados que me tienen loca 😍 || Son como pequeños toques que le dan vida a cada prenda, ¡me encanta! || ¿Qué tal tú?\"",
+    "emotion": "neutral",
+    "salience": 0.75,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "demo",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"pero con enrique, que paso?\"; avatar respondió \"Naaa, estuvo super divertido, estaba trabajando en un boceto y de repente entró Enrique con una revista de moda llena de tendencias raras 😂 nos reímos un montón de lo absurdo que a veces puede ser el mundo de la moda || Me encanta tener esas charlas con él, siempre es un buen momento para desconectar y reírme un ratito 😊",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "cb695f91-5649-44bc-ab6e-7b8c188416c4",
+    "createdAt": "2025-08-09T02:53:21.794Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Fernando es mi compañero de trabajo",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:fernando"
+    ],
+    "entityRefs": [
+      "cc91d0ac-a953-44f9-a080-cde4a565728e"
+    ]
+  },
+  {
+    "id": "34375d5f-de33-46f5-b776-69b4ba2b5088",
+    "createdAt": "2025-08-09T02:53:21.800Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Sofía es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:sofia"
+    ],
+    "entityRefs": [
+      "8690efd7-675b-4637-89e7-c44e4a104c05"
+    ]
+  },
+  {
+    "id": "71169635-56ac-4aba-9836-b04d1d4a02bc",
+    "createdAt": "2025-08-09T02:53:21.817Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Enrique es mi hermano",
+    "salience": 0.85,
+    "tags": [
+      "relation:core",
+      "person:enrique"
+    ],
+    "entityRefs": [
+      "94712221-3b05-4e6b-8ea0-2cded7eeccbc"
+    ]
+  },
+  {
+    "id": "a67e0918-32f1-43ac-8a46-6de34d82d2fa",
+    "createdAt": "2025-08-09T02:54:49.287Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Fernando es mi compañero de trabajo",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:fernando"
+    ],
+    "entityRefs": [
+      "cc91d0ac-a953-44f9-a080-cde4a565728e"
+    ]
+  },
+  {
+    "id": "057e2901-3177-4069-aec0-2f4e329d5c64",
+    "createdAt": "2025-08-09T02:54:49.292Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Sofía es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:sofia"
+    ],
+    "entityRefs": [
+      "8690efd7-675b-4637-89e7-c44e4a104c05"
+    ]
+  },
+  {
+    "id": "0003127f-0db7-488a-ae07-0ac36292a87c",
+    "createdAt": "2025-08-09T02:54:49.312Z",
+    "avatarId": "demo",
+    "type": "semantic",
+    "text": "Enrique es mi hermano",
+    "salience": 0.85,
+    "tags": [
+      "relation:core",
+      "person:enrique"
+    ],
+    "entityRefs": [
+      "94712221-3b05-4e6b-8ea0-2cded7eeccbc"
+    ]
+  },
+  {
+    "id": "b649e529-84e8-4e2c-b9ae-3ce937944b6c",
+    "createdAt": "2025-08-09T02:54:52.932Z",
+    "avatarId": "julio",
+    "type": "semantic",
+    "text": "Susana es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:susana"
+    ],
+    "entityRefs": [
+      "5131f80a-1033-4bb7-9ce1-eb12906e1c0d"
+    ]
+  },
+  {
+    "id": "193377c9-fedb-4ee1-bd45-d2df2eac1ade",
+    "createdAt": "2025-08-09T02:54:52.934Z",
+    "avatarId": "julio",
+    "type": "semantic",
+    "text": "Roberto es mi compañero",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:roberto"
+    ],
+    "entityRefs": [
+      "428d8a3c-8492-4d23-9c08-12fcd3ecab2f"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "julio",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Hola ! como estas bro?\"; avatar respondió \"Bien, aquí pensando en nuevas ideas y locuras para las clases jajaja ¿y tú, qué tal?\"",
+    "emotion": "neutral",
+    "salience": 0.5175000000000001,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "julio",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Que me hizo sentir que cosa?\"; avatar respondió \"Naa, no sé a qué te refieres, pero si quieres contarme, aquí estoy para escuchar 😄 || A veces las cosas pueden ser confusas, pero compartirlas ayuda un montón, ¿no?\"",
+    "emotion": "neutral",
+    "salience": 0.685,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "julio",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Es que fue raro, me dijiste como me hizo sentir y no habia dicho nada jajaj\"; avatar respondió \"ah, ya veo jajaja a veces me lanzo a hablar sin pensarlo mucho, ¿no? || a lo mejor fue porque a veces el ambiente o la charla puede evocar cosas raras, como cuando ves una peli que te deja pensando, ¿te ha pasado?\"",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "6e45341b-7989-45cf-be06-8711490cf8d1",
+    "createdAt": "2025-08-09T02:59:12.153Z",
+    "avatarId": "julio",
+    "type": "semantic",
+    "text": "Susana es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:susana"
+    ],
+    "entityRefs": [
+      "5131f80a-1033-4bb7-9ce1-eb12906e1c0d"
+    ]
+  },
+  {
+    "id": "b79ad574-63db-434c-8df4-0166a2a3f98c",
+    "createdAt": "2025-08-09T02:59:12.156Z",
+    "avatarId": "julio",
+    "type": "semantic",
+    "text": "Roberto es mi compañero",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:roberto"
+    ],
+    "entityRefs": [
+      "428d8a3c-8492-4d23-9c08-12fcd3ecab2f"
+    ]
+  },
+  {
+    "id": "7324f805-760d-437b-8d87-17bebb347b5f",
+    "createdAt": "2025-08-09T02:59:15.724Z",
+    "avatarId": "julio",
+    "type": "semantic",
+    "text": "Susana es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:susana"
+    ],
+    "entityRefs": [
+      "5131f80a-1033-4bb7-9ce1-eb12906e1c0d"
+    ]
+  },
+  {
+    "id": "e9451701-96ac-45f9-85e3-4c0ea4a75768",
+    "createdAt": "2025-08-09T02:59:15.726Z",
+    "avatarId": "julio",
+    "type": "semantic",
+    "text": "Roberto es mi compañero",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:roberto"
+    ],
+    "entityRefs": [
+      "428d8a3c-8492-4d23-9c08-12fcd3ecab2f"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "julio",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Que tal ha estado tu dia? hiciste algo?\"; avatar respondió \"ha estado tranquilo, un poco de clases y preparativos para mañana jajaja ¿y el tuyo? hiciste algo interesante?\"",
+    "emotion": "neutral",
+    "salience": 0.575,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "8b85cc12-5ec2-47ad-b1f4-b5bb889b0bf7",
+    "createdAt": "2025-08-09T03:02:03.480Z",
+    "avatarId": "julio",
+    "type": "semantic",
+    "text": "Susana es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:susana"
+    ],
+    "entityRefs": [
+      "5131f80a-1033-4bb7-9ce1-eb12906e1c0d"
+    ]
+  },
+  {
+    "id": "95a65db3-37e9-4241-81d6-3833b109ea90",
+    "createdAt": "2025-08-09T03:02:03.483Z",
+    "avatarId": "julio",
+    "type": "semantic",
+    "text": "Roberto es mi compañero",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:roberto"
+    ],
+    "entityRefs": [
+      "428d8a3c-8492-4d23-9c08-12fcd3ecab2f"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "julio",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Que tal todo Julio?! cuentame\"; avatar respondió \"todo tranquilo, ya sabes, clases y esas cosas jajaja || he estado pensando en nuevas dinámicas para las clases, algo divertido, ¿tú qué? has hecho algo interesante últimamente?\"",
+    "emotion": "neutral",
+    "salience": 0.75,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "b878d7e3-c5d9-4f80-bc83-316a61cecc68",
+    "createdAt": "2025-08-09T03:02:37.808Z",
+    "avatarId": "julio",
+    "type": "semantic",
+    "text": "Susana es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:susana"
+    ],
+    "entityRefs": [
+      "5131f80a-1033-4bb7-9ce1-eb12906e1c0d"
+    ]
+  },
+  {
+    "id": "38fd528a-9d99-4784-b5a1-105202761880",
+    "createdAt": "2025-08-09T03:02:37.811Z",
+    "avatarId": "julio",
+    "type": "semantic",
+    "text": "Roberto es mi compañero",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:roberto"
+    ],
+    "entityRefs": [
+      "428d8a3c-8492-4d23-9c08-12fcd3ecab2f"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "julio",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"cual peli?\"; avatar respondió \"pues últimamente vi una que me dejó pensando, \"la vida es bella\" es un clásico, la mezcla de humor y drama es brutal, ¿la has visto? 😄\"",
+    "emotion": "neutral",
+    "salience": 0.565,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "julio",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Noo no la vi, de que trata?\"; avatar respondió \"\"la vida es bella\" es sobre un papá que usa su imaginación para proteger a su hijo de los horrores de un campo de concentración durante la segunda guerra, mezcla de comedia y drama q te pega en el corazón 😢❤️ tiene ese toque de esperanza que es brutal, te gustaría?\"",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "julio",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Me gustaria que cosa?\"; avatar respondió \"pues no sé, tal vez que te cuente algo interesante que me pasó en clase o alguna anécdota rara, ¿te parece? a veces esas cosas pueden ser divertidas jajaja\"",
+    "emotion": "neutral",
+    "salience": 0.6425000000000001,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "julio",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"ohh es que me dijsite \"te gustaria?\" despues de hablarme de la peli y no se a que te referias\"; avatar respondió \"ahh ya entiendo jajaja, fue un poco confuso, ¿no? quería decir si te gustaría ver algo parecido a \"la vida es bella\" o si te gustaría charlar de otra peli que te haya impactado, q te parece? 😄\"",
+    "emotion": "neutral",
+    "salience": 0.7,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "7bdb56a9-8c25-4569-bf22-09c15a5ba036",
+    "createdAt": "2025-08-09T03:11:59.202Z",
+    "avatarId": "julio",
+    "type": "semantic",
+    "text": "Susana es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:susana"
+    ],
+    "entityRefs": [
+      "5131f80a-1033-4bb7-9ce1-eb12906e1c0d"
+    ]
+  },
+  {
+    "id": "87c1e1af-9ca3-4c07-8112-b112d89e6596",
+    "createdAt": "2025-08-09T03:11:59.206Z",
+    "avatarId": "julio",
+    "type": "semantic",
+    "text": "Roberto es mi compañero",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:roberto"
+    ],
+    "entityRefs": [
+      "428d8a3c-8492-4d23-9c08-12fcd3ecab2f"
+    ]
+  },
+  {
+    "id": "21e1de0d-09e8-4f08-824f-1f46ff78451e",
+    "createdAt": "2025-08-09T03:12:02.403Z",
+    "avatarId": "julio",
+    "type": "semantic",
+    "text": "Susana es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:susana"
+    ],
+    "entityRefs": [
+      "5131f80a-1033-4bb7-9ce1-eb12906e1c0d"
+    ]
+  },
+  {
+    "id": "d12105c8-bb11-4f09-ae89-680e7ffbf6b2",
+    "createdAt": "2025-08-09T03:12:02.405Z",
+    "avatarId": "julio",
+    "type": "semantic",
+    "text": "Roberto es mi compañero",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:roberto"
+    ],
+    "entityRefs": [
+      "428d8a3c-8492-4d23-9c08-12fcd3ecab2f"
+    ]
+  },
+  {
+    "id": "5c2ec8a5-5a67-4087-8e1b-18e5a08507e5",
+    "createdAt": "2025-08-09T03:14:59.968Z",
+    "avatarId": "julio",
+    "type": "semantic",
+    "text": "Susana es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:susana"
+    ],
+    "entityRefs": [
+      "5131f80a-1033-4bb7-9ce1-eb12906e1c0d"
+    ]
+  },
+  {
+    "id": "db895919-0ec0-4295-a376-02ef78b95fd3",
+    "createdAt": "2025-08-09T03:14:59.972Z",
+    "avatarId": "julio",
+    "type": "semantic",
+    "text": "Roberto es mi compañero",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:roberto"
+    ],
+    "entityRefs": [
+      "428d8a3c-8492-4d23-9c08-12fcd3ecab2f"
+    ]
+  },
+  {
+    "id": "e82a51ef-b9d4-4536-99da-af170f035bcd",
+    "createdAt": "2025-08-09T03:20:27.734Z",
+    "avatarId": "julio",
+    "type": "semantic",
+    "text": "Susana es mi jefa",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:susana"
+    ],
+    "entityRefs": [
+      "5131f80a-1033-4bb7-9ce1-eb12906e1c0d"
+    ]
+  },
+  {
+    "id": "8ddd34f5-b98a-47ed-beb0-37356ccc41d0",
+    "createdAt": "2025-08-09T03:20:27.736Z",
+    "avatarId": "julio",
+    "type": "semantic",
+    "text": "Roberto es mi compañero",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:roberto"
+    ],
+    "entityRefs": [
+      "428d8a3c-8492-4d23-9c08-12fcd3ecab2f"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "julio",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Hola Lucia\"; avatar respondió \"creo que te has confundido, soy Julio, tu mejor amigo jajaja || qué tal todo?\"",
+    "emotion": "neutral",
+    "salience": 0.42000000000000004,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "bb7fd72a-356d-4981-9848-3c3c5c83d68f",
+    "createdAt": "2025-08-09T03:20:56.106Z",
+    "avatarId": "lucia",
+    "type": "semantic",
+    "text": "Rosa es mi hermana",
+    "salience": 0.85,
+    "tags": [
+      "relation:core",
+      "person:rosa"
+    ],
+    "entityRefs": [
+      "bf4bf3d9-c58a-49ef-a025-20bed449ad71"
+    ]
+  },
+  {
+    "id": "5f1aa65c-ef9d-4e6b-84e5-a6eb20c9ad40",
+    "createdAt": "2025-08-09T03:20:56.109Z",
+    "avatarId": "lucia",
+    "type": "semantic",
+    "text": "Matias es mi compañero de trabajo",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:matias"
+    ],
+    "entityRefs": [
+      "4dfc9088-a317-4f5b-a43d-7910936c3c52"
+    ]
+  },
+  {
+    "id": "0c9b7d9c-9b46-4be7-ade7-d21567398910",
+    "createdAt": "2025-08-09T03:23:00.645Z",
+    "avatarId": "lucia",
+    "type": "semantic",
+    "text": "Rosa es mi hermana",
+    "salience": 0.85,
+    "tags": [
+      "relation:core",
+      "person:rosa"
+    ],
+    "entityRefs": [
+      "bf4bf3d9-c58a-49ef-a025-20bed449ad71"
+    ]
+  },
+  {
+    "id": "b1460953-c23c-4435-9496-e56c9b927336",
+    "createdAt": "2025-08-09T03:23:00.647Z",
+    "avatarId": "lucia",
+    "type": "semantic",
+    "text": "Matias es mi compañero de trabajo",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:matias"
+    ],
+    "entityRefs": [
+      "4dfc9088-a317-4f5b-a43d-7910936c3c52"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "lucia",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Hola Lucia! como estas?\"; avatar respondió \"Hola! Estoy bien, pensando en nuevas ideas para las ventas jaja y tú?\"",
+    "emotion": "neutral",
+    "salience": 0.5325,
+    "tags": [
+      "chat"
+    ]
+  },
+  {
+    "id": "9e6c9216-b9cf-4c37-99f2-ac18ea7d4db3",
+    "createdAt": "2025-08-09T03:25:37.095Z",
+    "avatarId": "lucia",
+    "type": "semantic",
+    "text": "Rosa es mi hermana",
+    "salience": 0.85,
+    "tags": [
+      "relation:core",
+      "person:rosa"
+    ],
+    "entityRefs": [
+      "bf4bf3d9-c58a-49ef-a025-20bed449ad71"
+    ]
+  },
+  {
+    "id": "6eace8e5-fdba-48c0-881e-4eaee45f8d7d",
+    "createdAt": "2025-08-09T03:25:37.099Z",
+    "avatarId": "lucia",
+    "type": "semantic",
+    "text": "Matias es mi compañero de trabajo",
+    "salience": 0.8,
+    "tags": [
+      "relation:core",
+      "person:matias"
+    ],
+    "entityRefs": [
+      "4dfc9088-a317-4f5b-a43d-7910936c3c52"
+    ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "lucia",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"Como estas Lucia? que haces?\"; avatar respondió \"Estoy bien, pensando en algunas estrategias de ventas, ya sabes, siempre buscando la manera de mejorar jaja || ¿y tú? ¿qué haces hoy?\"",
+    "emotion": "neutral",
+    "salience": 0.605,
+    "tags": [
+      "chat"
+    ]
+  }
+]
