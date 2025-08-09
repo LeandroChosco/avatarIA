@@ -2466,5 +2466,17 @@
     "tags": [
       "chat"
     ]
+  },
+  {
+    "id": "",
+    "createdAt": "",
+    "avatarId": "lucia",
+    "type": "episodic",
+    "text": "Conversación: usuario dijo \"hola\"; avatar respondió \"hey, q tal? todo tranquilo por acá, solo en el trabajo, ya sabes cómo es esto jajaja y tú?\"",
+    "emotion": "neutral",
+    "salience": 0.4375,
+    "tags": [
+      "chat"
+    ]
   }
 ]
